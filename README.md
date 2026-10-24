@@ -77,7 +77,7 @@ No dependencies, bundlers, or build steps required.
 
 1. Clone or download the repository:
    ```bash
-   git clone <https://github.com/synj00/primordial-sparks.git>
+   git clone https://github.com/synj00/primordial-sparks.git
    cd primordial-sparks
    ```
 2. Open `index.html` in any modern web browser (Chrome, Firefox, Safari, Edge).
