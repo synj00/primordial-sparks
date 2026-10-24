@@ -7,6 +7,7 @@
 
 ---
 
+<img width="1920" height="890" alt="image" src="https://github.com/user-attachments/assets/8e933796-a990-48ef-bfee-b063f8dfec14" />
 
 
 ## The Philosophy
